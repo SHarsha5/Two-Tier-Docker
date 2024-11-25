@@ -1,0 +1,7 @@
+/todo-app
+    ├── Dockerfile
+    ├── docker-compose.yml
+    ├── requirements.txt
+    ├── app.py
+    ├── templates/
+        └── index.html
